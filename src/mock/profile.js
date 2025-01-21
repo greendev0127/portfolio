@@ -24,4 +24,4 @@ export const aboutParagraph =
 
 export const contactEmail = 'works.dhaval@gmail.com';
 
-export const documentTitle = 'Hello I am Dhaval Patel | Full Stack Engineer | AI Enthusiast'
+export const documentTitle = 'Hello I am Benjamin | Full Stack Engineer | SaaS Expert'
