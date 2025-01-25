@@ -31,6 +31,14 @@ export const PROJECTS = [
     imgSrc: 'https://images2.imgbox.com/79/5f/S3hu6kJs_o.jpg',
     title: 'Flipkart Clone - E-Commerce Project',
     techIcons: [
+      {
+        label: 'Java',
+        icon: 'logos:codeigniter',
+      },
+      {
+        label: 'Java',
+        icon: 'logos:php',
+      },
       getSkillByLabel(FRONTEND_SKILLS, 'HTML'),
       getSkillByLabel(FRONTEND_SKILLS, 'CSS'),
       getSkillByLabel(FRONTEND_SKILLS, 'React.js'),
@@ -41,7 +49,7 @@ export const PROJECTS = [
     ],
     description:
       'Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart. It is build with React Js, Node Js.',
-    repoLink: 'https://github.com/dhavalCode/flipkart-clone',
+    // repoLink: 'https://github.com/dhavalCode/flipkart-clone',
     sourceLink: 'https://flipkart-web.vercel.app/',
     category: [PROJECT_CATEGORY.FULL_STACK, PROJECT_CATEGORY.OPEN_SOURCE],
   },
@@ -56,7 +64,7 @@ export const PROJECTS = [
     ],
     description:
       'Simple and classic modern portfolio for who wants to present himself as a software developer. Portfolio build with highly customizable using Tailwind CSS, Next Js.',
-    repoLink: 'https://github.com/dhavalCode/dev-portfolio',
+    // repoLink: 'https://github.com/dhavalCode/dev-portfolio',
     sourceLink: 'https://dhavalcode.com/',
     category: [PROJECT_CATEGORY.OPEN_SOURCE],
   },
@@ -76,7 +84,7 @@ export const PROJECTS = [
     ],
     description:
       'The e-commerce to buy kitchen related items. College final year project base on Servlets and JSP (Java)',
-    repoLink: 'https://github.com/dhavalcode/ecommerce-java-project',
+    // repoLink: 'https://github.com/dhavalcode/ecommerce-java-project',
     sourceLink: '',
     category: [PROJECT_CATEGORY.FULL_STACK, PROJECT_CATEGORY.OPEN_SOURCE],
   },
@@ -91,7 +99,7 @@ export const PROJECTS = [
       getSkillByLabel(BACKEND_SKILLS, 'REST Api'),
     ],
     description: 'Netflix clone using react Js. Proving movies details using TMDB API.',
-    repoLink: 'https://github.com/dhavalcode/netflix-clone',
+    // repoLink: 'https://github.com/dhavalcode/netflix-clone',
     sourceLink: 'https://netflix-clone-by-dhaval.web.app/',
     category: [PROJECT_CATEGORY.OPEN_SOURCE],
   },

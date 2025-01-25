@@ -26,7 +26,7 @@ export default function Header({ darkModeEnabled, toggleMode }) {
             className="text-md cursor-pointer font-lato font-semibold tracking-widest md:text-2xl animate-pulse"
             onClick={jumpToTop}
           >
-            Benjamin Here
+            PHP Developer Here
           </h3>
         </motion.div>
         <motion.div

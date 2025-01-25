@@ -120,9 +120,9 @@ export default function Contact() {
                     classes="inline-block text-lg mr-1 text-primary-700 dark:text-primary-300"
                     icon="bytesize:location"
                   />
-                  Ahmedabad
+                  Preston
                   <br />
-                  Gujarat, India
+                  Canada
                 </p>
                 <div className="flex w-full justify-center">
                   <SocialLinks />

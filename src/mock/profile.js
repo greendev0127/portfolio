@@ -17,11 +17,11 @@ export const SOCIAL_LINKS = [
   },
 ];
 
-export const HERO_TITLES = ['Benjamin Emerson', 'Full-stack Engineer', 'SaaS Expert'];
+export const HERO_TITLES = ['Preston Schmidt', 'Full-stack Engineer', 'PHP/CodeIgniter Expert'];
 
 export const aboutParagraph =
   'A Senior full stack engineer with 11+ years of experience in software development, Work experience in 4 large companies, Developed and Launched 30+ web and mobile applications';
 
 export const contactEmail = 'works.dhaval@gmail.com';
 
-export const documentTitle = 'Hello I am Benjamin | Full Stack Engineer | SaaS Expert'
+export const documentTitle = 'Hello I am PHP Engineer | Full Stack Engineer | SaaS Expert'
